@@ -1,18 +1,9 @@
 package bookshelf.bookstore;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author prida
- */
 public class BookCash {
     private static final Map<Integer, Book> bookMap = new HashMap<>();
 
