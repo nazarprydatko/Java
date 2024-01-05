@@ -1,14 +1,5 @@
 package bookshelf;
 import bookshelf.bookstore.Book;
-
-
-
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-
-
 /**
  *
  * @author prida
