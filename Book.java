@@ -1,16 +1,5 @@
 package bookshelf.bookstore;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-
-/**
- *
- * @author prida
- */
-
  public abstract class Book implements Cloneable{
     public int ISBN;
     public int pages;
